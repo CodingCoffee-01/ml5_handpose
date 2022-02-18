@@ -1,3 +1,3 @@
 # ml5_handpose codingcoffee 
 
-demo :  https://chiyanglin-astar.github.io/ml5_handpose/
+demo :   https://codingcoffee-01.github.io/ml5_handpose/
